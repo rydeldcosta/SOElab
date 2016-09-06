@@ -1,0 +1,6 @@
+include	,	3.0 (freq)			  1  2  3
+int	,	10.0 (freq)			  7  7  9  13  15  27  35  59  63  64
+cout	,	1.0 (freq)			  55
+char	,	5.0 (freq)			  7  7  30  61  62
+using	,	1.0 (freq)			  4
+

@@ -1,0 +1,13 @@
+if	,	4.0 (freq)			  17  19  40  48
+char	,	5.0 (freq)			  7  7  30  61  62
+include	,	3.0 (freq)			  1  2  3
+main	,	1.0 (freq)			  59
+while	,	1.0 (freq)			  36
+void	,	1.0 (freq)			  7
+int	,	10.0 (freq)			  7  7  9  13  15  27  35  59  63  64
+cout	,	1.0 (freq)			  55
+for	,	2.0 (freq)			  13  15
+else	,	2.0 (freq)			  19  48
+return	,	1.0 (freq)			  66
+using	,	1.0 (freq)			  4
+
